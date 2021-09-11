@@ -7,13 +7,15 @@
 - [ ] Blockquote == Text - can be multi lined
 - [ ] List ==  Text - can be multi lined  Numbered list 1. Text 2.Text - multiline , nested list also possible
 - [ ] Table
-- [ ] Code
+- [ ] Code (single line, multi line)
 - [ ] Checkbox
 
 
-`Following is the code`
+`Following is the code for table`
+```
+|Header1 |Header2  | Header3|
+|--- | --- | ---|
+|**bold style**| `code block`|data3|
+|\|escape pipe|\`backtick|data13|
 
-> |Header1 |Header2  | Header3|
-> |--- | --- | ---|
-> |**bold style**| `code block`|data3|
-> |\|escape pipe|\`backtick|data13|
+```
