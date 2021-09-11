@@ -7,6 +7,8 @@
 - [ ] Blockquote == Text - can be multi lined
 - [ ] List ==  Text - can be multi lined  Numbered list 1. Text 2.Text - multiline , nested list also possible
 - [ ] Table
+- [ ] Code
+- [ ] Checkbox
 
 
 `Following is the code`
